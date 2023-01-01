@@ -2,3 +2,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logocolor=FFFF00)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-090909?style=for-the-badge&logo=ubuntu&logocolor=FFFF00)
 ![Nginx](https://img.shields.io/badge/-Nginx-090909?style=for-the-badge&logo=nginx&logocolor=FFFF00)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logocolor=FFFF00)
